@@ -12,7 +12,7 @@ labels:
 summary: High School Robotics Team that focused on constructing robotics programmed to complete certain tasks.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/IMG_7596.jpg" width="400" height="400"/>
+<img class="ui medium right floated rounded image" src="../images/IMG_7596.jpg" width="450" height="450"/>
 
 For the 3 years that I participated in my high school robotics team, we were constatly working and perfecting our robot and our understanding of the game mechanics. The team was separated into two subgroups, the builders and the programers. And on the programming team we costantly had to collaborate with our building team in order to make our robot work in sync from hardware to software. This was the first exposure I had to any kind of programming, so I definitely was able to take away a lot of skills that made me later sign up for computer science and engineering classes. The two primary languages we worked with were Robotics C and Java. So as programmers we had to ensure our code did a couple of things: 1. not break the robot, and 2. work as expected.
 

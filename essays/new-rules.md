@@ -12,6 +12,9 @@ labels:
   - Networking
 ---
 
+<img src="../images/818.jpg">
+
+
 # New Rules
 
 If there's one thing that I learned so far in my technical career it's that technology is always changing, the rules are always changing. Although most people might think that this is a given since we are working towards becoming technical innovators in the workspace of innovation, creativity, and new creations. I have grown to accept that this future career is learning to be comfortable with being uncomfortable, which is something that I am still working towards myself. With each new language, new Integrated Development Environment's (IDE), new syntax, new coding styles, etc. It makes me think: "Well what do I actually know?". I could go on to list all of the language's that I have ranges of experience in, but if I took a look into what I actually know is not a lot in retrospect. This leads me to my first goal of what I want to learn in the realm of software engineering, the first thing I want to learn and eventually master is the ability to develop creative and effective solutions. I believe that this is the basis of every successful engineer, and this isn't only bound to software but the other specialties that require critical thinking and problem solving skills. Being able to analyze a problem, and create a solution is a foundational skill that I would like to develop more and more into my technical career. 

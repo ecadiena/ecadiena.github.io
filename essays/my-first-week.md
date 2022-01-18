@@ -27,4 +27,4 @@ Doing the first two practice WOD's made me feel extremely stressed, a similar fe
 
 ## My take on athletic software engineering
 
-Athletic Software Engineering is a term that I've never heard of prior to this class, but the more experience I get in this class the more I will be comfortable with this learning style. My first impression of this style felt pretty stressful and overwhelming, but I'm sure I will be able to get used to it. I can see this becoming very effective and helpful for us in our technical careers, so I'm excited to do more in this class!
+Athletic Software Engineering is a term that I've never heard of prior to this class, but the more experience I get in this class the more I will be comfortable with this learning style. My first impression of this style felt pretty stressful and overwhelming, but I'm sure I will be able to get used to it. I can see this becoming very effective and helpful for us in our technical careers, so I'm excited to do more of these athletic exercises!

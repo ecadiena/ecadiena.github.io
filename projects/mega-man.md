@@ -9,7 +9,7 @@ labels:
   - Javascript
   - HTML
   - CSS
-summary: 
+summary: My first video game creation.
 ---
 
 <img src="../images/megaman.png" width="700" height="400"/>

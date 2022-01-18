@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_6539.png
+image: images/IMG_6325.png
 title: Robotics
 permalink: projects/robotics
 date: 2019-05-17

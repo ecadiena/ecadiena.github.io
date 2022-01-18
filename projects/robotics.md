@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_6325.jpg
+image: images/IMG_6325 (3).JPG
 title: Moanalua Robotics
 permalink: projects/moanaluarobotics
 date: 2019-05-17

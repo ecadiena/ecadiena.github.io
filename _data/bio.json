@@ -66,26 +66,27 @@
         "Java",
         "Javascript",
         "HTML",
+        "ReactJS",
+        "Python",
+        "TypeScript",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Maker & Technical Work",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Computer Aided Modeling",
+        "Soldering",
+        "Woodwork and Metal work"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-17",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -94,54 +95,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Apple",
+      "position": "Technical Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-11-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Troubleshoot and provide solutions to customers, ranging from software, hardward, ownership opportunities, or educational support options.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Connect with customers and align with them Apple's company values in translation with their services and products."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Novetta",
+      "position": "Software Development Intern",
+      "website": "",
+      "startDate": "2021-05-20",
+      "endDate": "2021-08-10",
+      "summary": "Summer Internship opportunity that focused on web development, specifically front end development",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Find and fix bugs on web application",
+        "Participate in daily team meetings",
+        "Took responsibility for certain feature improvement",
+      ]
+    },
+    {
+      "company": "McDonalds",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2019-03-01",
+      "endDate": "2021-03-29",
+      "summary": "Intake, prepare, and distribute orders accurately and efficiently. Upkeep restaurant cleanliness and presentation.",
+      "highlights": [
+        "Customer service experiences"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Christian Academy Summer Fun",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Head Junior Leader",
+      "startDate": "2011-07-01",
+      "endDate": "2019-08-29",
+      "summary": "Coordinate with parents and other junior leaders to ensure the 8-week summer program runs smoothly. Delegated work and activites throughout the entire program, including: field trip and safety paperwork, video editing, and nutritional education",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],

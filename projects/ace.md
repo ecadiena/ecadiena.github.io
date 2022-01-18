@@ -9,7 +9,7 @@ labels:
   - Computer Aided Modeling
   - Photoshop
   - ArcGIS
-summary: 
+summary: A national design competition that implemented construction, architecture, and engineering.
 ---
 
 <img src="../images/ace.jpg"/>

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ace-pfp.png
 title: ACE Design Competition
-permalink: 
+permalink: project/ACE Design Competition
 date: 2019-05-17
 labels:
   - Computer Aided Modeling

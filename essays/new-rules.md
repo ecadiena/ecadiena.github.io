@@ -12,7 +12,7 @@ labels:
   - Networking
 ---
 
-<img src="../images/818.jpg" width="150" height="100">
+<img src="../images/818.jpg" width="900" height="500">
 
 
 # New Rules

@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/IMG_6325.jpg
-title: Robotics
-permalink: projects/robotics
+title: Moanalua Robotics
+permalink: projects/moanaluarobotics
 date: 2019-05-17
 labels:
   - Robotics

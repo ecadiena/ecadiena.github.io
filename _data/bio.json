@@ -2,7 +2,7 @@
   "basics": {
     "name": "Edalaine Cadiena",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/IMG_7553.JPG",
+    "picture": "https://ecadiena.github.io/images/IMG_7553.JPG",
     "email": "ecadiena@hawaii.edu",
     "phone": "808-754-0607",
     "website": "https://ecadiena.github.io",
@@ -46,7 +46,12 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sustainability",
       "keywords": [
       ]
     }

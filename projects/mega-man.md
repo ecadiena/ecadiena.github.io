@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/megaman-pfp.png
 title: Mega Man Platformer
-permalink: projects/MegaManPlatformer
+permalink: projects/megamanplatformer
 date: 2017-09-10
 labels:
   - Javascript

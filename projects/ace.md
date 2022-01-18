@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/ace-pfp.png
 title: ACE Design Competition
 permalink: 
 date: 2019-05-17

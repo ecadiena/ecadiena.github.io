@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Edalaine Cadiena",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/IMG_7553.png",
+    "email": "ecadiena@hawaii.edu",
+    "phone": "808-754-0607",
+    "website": "https://ecadiena.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ecadiena",
+        "url": "http://github.com/ecadiena"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Edalaine Cadiena",
+        "url": "https://www.linkedin.com/in/edalaine-cadiena-3a93401ba/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "edaamaame",
+        "url": "https://www.instagram.com/edaamaame/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Website Development",
+        "App Development"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Game Development",
       "keywords": [
       ]
     },
@@ -65,8 +60,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
       ]
     },
     {
@@ -148,16 +142,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Educate Award",
+      "date": "2019",
+      "awarder": "Pan Pacific VEX Robotics",
+      "summary": "Awarded to the team who ememplified educational abilities to other the judges and other teams that participated in the competition. My team and I earned this through mentorship of our secondary high school team."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "National Finalist, State Winner",
+      "date": "2018",
+      "awarder": "Architecture Construction Engineering (ACE) Design Competition",
+      "summary": "My team won the first place category in our state, and was placed third overall in the nation. See LinkedIn article for the news coverage of this achievement."
     }
   ],
   "references": [

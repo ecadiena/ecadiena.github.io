@@ -12,7 +12,7 @@ labels:
 summary: 
 ---
 
-<img src="ace.jpg"/>
+<img src="../images/ace.jpg"/>
 
 # ACE Design Competition
 

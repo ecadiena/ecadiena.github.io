@@ -23,7 +23,7 @@ Software Engineering is defined as an engineering approach on a software develop
 
 ## What in the world is a WOD ?
 
-Doing the first two practice WOD's made me feel extremely stressed, a similar feeling to my first ever technical interview. Though there was nobody actually watching me think through the problems, try and fail my methods of approaching said problems, etc. I thought the first two practice WOD's helped set an expectation of what we would see throughout this semester, and I believe that more and more practice of these helps develop out analytical thinking and problem solving skills.
+Doing the first two practice WOD's (Workout of the Day) made me feel extremely stressed, a similar feeling to my first ever technical interview. Though there was nobody actually watching me think through the problems, try and fail my methods of approaching said problems, etc. I thought the first two practice WOD's helped set an expectation of what we would see throughout this semester, and I believe that more and more practice of these helps develop out analytical thinking and problem solving skills.
 
 ## My take on athletic software engineering
 

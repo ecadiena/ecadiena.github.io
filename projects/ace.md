@@ -12,6 +12,8 @@ labels:
 summary: 
 ---
 
+<img src="ace.jpg"/>
+
 # ACE Design Competition
 
 The Architecture Construction and Engineering (ACE) Design Competition was held two years ago in Washington D.C. where my team and I were one of the three teams selected on a natioal scale to compete for the national title. I participated in this group project as part of an extracurricular challenge by my engineering teacher at the time who administrated the preliminary ideas through her classroom curriculum. The basis of this competition cosisted of three different challenges: a playgroud, urban transportation system, and community health clinic. My group and I participated in the community health clinic category and won first for our state. 

@@ -12,7 +12,7 @@ labels:
 summary: 
 ---
 
-<img src="../images/megaman.png" />
+<img src="../images/megaman.png" width="700" height="400"/>
 
 # Mega Man
 

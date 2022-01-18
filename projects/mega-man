@@ -1,0 +1,17 @@
+---
+layout: project
+type: project
+image: 
+title: Mega Man Platformer
+permalink: 
+date: 2017-09-10
+labels:
+  - Javascript
+  - CSS
+summary: 
+---
+
+<img src="../images/megaman.png" />
+
+# Mega Man
+

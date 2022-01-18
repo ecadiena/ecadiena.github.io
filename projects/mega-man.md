@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/megaman-pfp.png
 title: Mega Man Platformer
 permalink: 
 date: 2017-09-10

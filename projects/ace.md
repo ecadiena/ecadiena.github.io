@@ -12,7 +12,7 @@ labels:
 summary: A national design competition that implemented construction, architecture, and engineering.
 ---
 
-<img src="../images/ace.jpg" width="700" height="400"/>
+<img src="../images/ace.jpg" width="750" height="400"/>
 
 # ACE Design Competition
 

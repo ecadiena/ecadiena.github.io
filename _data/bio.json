@@ -166,18 +166,6 @@
   ],
   "awards": [
     {
-      "title": "Educate Award",
-      "date": "2019",
-      "awarder": "Pan Pacific VEX Robotics",
-      "summary": "Awarded to the team who ememplified educational abilities to other the judges and other teams that participated in the competition. My team and I earned this through mentorship of our secondary high school team."
-    },
-    {
-      "title": "National Finalist, State Winner",
-      "date": "2018",
-      "awarder": "Architecture Construction Engineering (ACE) Design Competition",
-      "summary": "My team won the first place category in our state, and was placed third overall in the nation. See LinkedIn article for the news coverage of this achievement."
-    },
-    {
       "title": "Summa Cum Laude",
       "date": "2020",
       "awarder": "Moanalua High School",
@@ -194,18 +182,30 @@
       "date": "2020",
       "awarder": "Moanalua High School",
       "summary": "Complete high school credits including 2 or more years of STEM qualifying courses, and participate in a STEM Capstone project."
+    },       
+    {
+      "title": "National Finalist, State Winner",
+      "date": "2019",
+      "awarder": "Architecture Construction Engineering (ACE) Design Competition",
+      "summary": "My team won the first place category in our state, and was placed third overall in the nation. See LinkedIn article for the news coverage of this achievement."
+    },     
+    {
+      "title": "2019 Stemworks Hackathon, First Place",
+      "date": "2019",
+      "awarder": "Stemworks Hawaii",
+      "summary": "Compete against teams to create a method of harvesting oysters in cages made of sustainable materials."
+    },
+    {
+      "title": "Educate Award",
+      "date": "2018",
+      "awarder": "Pan Pacific VEX Robotics",
+      "summary": "Awarded to the team who ememplified educational abilities to other the judges and other teams that participated in the competition. My team and I earned this through mentorship of our secondary high school team."
     },
     {
       "title": "Scholar Athlete",
       "date": "2016-2019",
       "awarder": "Moanalua High School",
       "summary": "Participate in a seasonal sport while maintaining a the highest GPA of your prospective team."
-    }, 
-    {
-      "title": "2019 Stemworks Hackathon, First Place",
-      "date": "2019",
-      "awarder": "Stemworks Hawaii",
-      "summary": "Compete against teams to create a method of harvesting oysters in cages made of sustainable materials."
     }, 
   ],
   "references": [

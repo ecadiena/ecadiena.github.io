@@ -9,7 +9,7 @@ labels:
   - WOD
 ---
 
-<img src="../images/istockphoto.jpg" width="900" height="500">
+<img src="../images/istockphoto.jpg" width="700" height="500">
 
 Javascript was one of the first languages that I stuck my toe out into the vast body of water represented by software engineering. 16 year old me didn't know what she was getting herself into, all she knew was that the teacher for "Introduction to Computer Science" was super chill and it would be a fun elective to take. Three years later here I am relearning the language in the context of other programming languages used for website development. Javascript, HTML, and CSS are the languages that I have known the longest and have the most experience with.
 

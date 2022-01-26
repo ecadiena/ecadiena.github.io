@@ -21,6 +21,8 @@ In my personal opinion, I think that Javascript is a good start language to intr
 
 Software Engineering is defined as an engineering approach on a software development of systematic application. This in itself is the application of the major aspects of the engineering proccess: design, collaboraion, analysis, testing, and "tinkering". I think that any programmer no matter the language they choose to utilize should be able to incorporate it into their own engineering process. The length of their knowledge in the language is the most definitive factor in this process, but overall I think that Javascript is a good language that can be used in a lot of diverse projects.
 
+<img src="../images/javascript-1567486564472.jpg" width="700" height="500">
+
 ## What in the world is a WOD ?
 
 Doing the first two practice WOD's (Workout of the Day) made me feel extremely stressed, a similar feeling to my first ever technical interview. Though there was nobody actually watching me think through the problems, try and fail my methods of approaching said problems, etc. I thought the first two practice WOD's helped set an expectation of what we would see throughout this semester, and I believe that more and more practice of these helps develop out analytical thinking and problem solving skills.

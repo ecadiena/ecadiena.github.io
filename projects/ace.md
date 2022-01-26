@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ace-pfp.png
+image: images/CIRT ACE lockup_0.png
 title: ACE Design Competition
 permalink: projects/acedesigncompetition
 date: 2019-05-17

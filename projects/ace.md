@@ -22,6 +22,8 @@ The Architecture Construction and Engineering (ACE) Design Competition was held 
 
 The requirements for this competition is to have a computer aided model of the design, a detailed board to present to a panel of judges, as well as strict explanations for the desired budget, location zoning, and use of sustainable materials. Of these tasks I was responsible for delegating the work for different parts of the presentation board, researching the materials and zoning of the clinic's location, and creating the presentation speech. While I was not responsible for the computer aided modeling, since we only had one device to work with at the time, I was able to provide input on certain building aspects such as the dimensions and terrain the clinic would be sitting on. The main technical skills that I obtained from this experience are: Computer Aided Modeling for the clinic model, Photoshop for the visuals of the presentation board, and ArcGIS for location research and zoning.
 
+<img src="../images/pro-intel-banner-fg.png" width="700" height="400"/>
+
 ## Learns
 
 In this experience I was able to learn about the strict building and construction rules that goes into building a structure. There were specifics that I didn't even think about such as how tall the structure could be, what the ground material was made of, the cost of tearing down a structure, etc. Hands down the most stressful part of the project was the explanations of why the team had wanted to build on top of a historial structure in despair. In the end this is the unique aspect that won over the judges and our mentors during preliminary eliminations, and we were able to follow through with it in the national competition.

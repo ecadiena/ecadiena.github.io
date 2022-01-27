@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: New Rules
-date: 2021-01-20
+date: 2022-01-20
 labels:
   - Software Engineering
   - Problem Solving

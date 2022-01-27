@@ -33,6 +33,8 @@ But above all they didn't ask the right questions in the right manner in order t
 
 ## Result of stupid questions
 
+<img class="ui medium right floated rounded image" src="../images/confused.jpg" width="400" height="300">
+
 This person unfortunately got mocked by many people in the comment section, and for good reason in my opinion. While they were correct in provided the error messages they were receiving, the handwritten source code was something that they couldn't recover from. However looking beyond that they were unclear in their thought process of trying to resolve the issue, and made it difficult for others with the same issue come to a resolution. If I were to put myself into the shoes of someone with this exact issue, I would probably never find it under a name like "Why is this program erroneously rejected by three C++ compilers?". Along with these issues, the user was asking the wrong questions. If they didn't know what the error message meant then they could've asked that as a question or even do some reasearch and link their article in the post. This post overall is the epitome of the "Not So Smart Way" to ask for help.
 
 # How to Ask the Right Questions

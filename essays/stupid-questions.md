@@ -5,7 +5,6 @@ title: There's No Such Thing As A Stupid Question, Right?
 date: 2022-01-27
 labels:
   - Stack Overflow
-  - Stack Exchange
 ---
 
 <img src="../images/stack-overflow.png" width="700" height="500">

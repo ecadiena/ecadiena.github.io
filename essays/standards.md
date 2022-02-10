@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I can't read this
+title: "I can't read this"
 date: 2022-02-10
 labels:
   - Code Standards
@@ -9,7 +9,6 @@ labels:
   - ESLint
 ---
 
-# "I can't read this"
 Any beginner programmer has heard something along the lines of "I can't read this" as feedback from a seasoned programmer, professor, or even an IDE displaying the terrifying red squiggles that no one likes to see in their program. My initial thoughts on coding standards were "Why are we learning to do this if I could simply tidy up my program with a click of a button?". I've always thought that my code was always nice and tidy until I took my first upper division computer science course in college. No matter how well written my code and algorithms were, I would consistently get marked off for "Not meeting the Coding Standard" despite getting multiple warnings and comments on the unreadability of my programs. So needless to say, clean code was something that was the least of my worries because in my mind as long as it worked then I did the job. 
 
 ## Messy Desk

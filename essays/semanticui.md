@@ -28,9 +28,9 @@ As the title "True Beauty" stands, the story dives into the topic of the beauty 
 
 ## Real Life Examples
 A real life example of this using websites that have similar content, discussing open source software, but with very different styling.
-<img src="../images/website with ui.png" alt="website with ui" width="700" height="400">
+<img src="../images/website with ui.png" alt="website with ui" width="800" height="400">
 This <a target="_blank" href="https://www.synopsys.com/glossary/what-is-open-source-software.html">website using a UI Framework</a> is well organized with a navigation bar, headers, hyperlinks to references used, and nice styling with a purple themes in the: header, footer, and important label words. The price of taking a user's attention for more than a secound would be at the cost of the developer's time and effort put into this website, and at the same time the reward for the developing team.
 
-<img src="../images/rawhtml.png" alt="raw html" width="700" height="400">
+<img src="../images/rawhtml.png" alt="raw html" width="800" height="400">
 This <a target="_blank" href="http://catb.org/~esr/open-source.html">website with just raw HTML</a> that I found on a <a href="https://www.reddit.com/r/web_design/comments/b9fvbs/collection_of_minimalraw_html_websites/">Reddit thread</a> is a part of a personal website including the author's personal projects, discusses his hobbies and interests in cryptocurrency and experience in open source software. While the content of the website is a decent read, it was almost painful staring and reading it for more than a few minutes. This website is the polar opposite of the previously reviewed website, and is the epitome of raw HTML with little to no effor put into it for styling. 
 

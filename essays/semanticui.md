@@ -18,12 +18,12 @@ My current obsession is a Webtoon story called "True Beauty" which follows a you
 As the title "True Beauty" stands, the story dives into the topic of the beauty within a person. Prior to the makeover Jugyeong has a relateable and bubbly personality which she consistently has throughout the story, with the only difference being her external appearance. Relating these to a website's anatomy, her personality would be the HTML or content of a website and changing her physical appearance would be the difference between using UI Frameworks or Cascading Style Sheets (CSS) for styling and only having raw HTML - only containing text content, hyperlinks, etc. In the images below, the difference in styling the same "HTML" with a UI Framework or CSS in the form of hair, makeup, and clothing styling.
 <img class="ui small left floated image" src="../images/ugly_jugyeong.jpg" width="400" height="400">
 <img class="ui small right floated image" src="../images/pretty_jugyeong.jpg" width="400">
-
+<br>
 ## Real Life Examples
 A real life example of this using websites that have similar content, discussing open source software, but with very different styling.
-<img class="ui small image" src="../images/website with ui.png" alt="website with ui">
+<img src="../images/website with ui.png" alt="website with ui">
 This <a target="_blank" href="https://www.synopsys.com/glossary/what-is-open-source-software.html">website using a UI Framework</a> is well organized with a navigation bar, headers, hyperlinks to references used, and nice styling with a purple themes in the: header, footer, and important label words. The price of taking a user's attention for more than a secound would be at the cost of the developer's time and effort put into this website, and at the same time the reward for the developing team.
 
-<img class="ui small image" src="../images/rawhtml.png" alt="raw html">
+<img src="../images/rawhtml.png" alt="raw html">
 This <a target="_blank" href="http://catb.org/~esr/open-source.html">website with just raw HTML</a> that I found on a <a href="https://www.reddit.com/r/web_design/comments/b9fvbs/collection_of_minimalraw_html_websites/">Reddit thread</a> is a part of a personal website including the author's personal projects, discusses his hobbies and interests in cryptocurrency and experience in open source software. While the content of the website is a decent read, it was almost painful staring and reading it for more than a few minutes. This website is the polar opposite of the previously reviewed website, and is the epitome of raw HTML with little to no effor put into it for styling. 
 

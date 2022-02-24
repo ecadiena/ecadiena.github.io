@@ -16,9 +16,16 @@ My current obsession is a Webtoon story called "True Beauty" which follows a you
 
 ## Raw HTML vs UI Frameworks
 As the title "True Beauty" stands, the story dives into the topic of the beauty within a person. Prior to the makeover Jugyeong has a relateable and bubbly personality which she consistently has throughout the story, with the only difference being her external appearance. Relating these to a website's anatomy, her personality would be the HTML or content of a website and changing her physical appearance would be the difference between using UI Frameworks or Cascading Style Sheets (CSS) for styling and only having raw HTML - only containing text content, hyperlinks, etc. In the images below, the difference in styling the same "HTML" with a UI Framework or CSS in the form of hair, makeup, and clothing styling.
-<img class="ui medium left floated image" src="../images/ugly_jugyeong.jpg">
-<img class="ui medium right floated image" src="../images/pretty_jugyeong.jpg">
-<br>
+<div class="row">
+  <div class="column">
+    <img class="ui medium left floated image" src="../images/ugly_jugyeong.jpg" width="500" height="500">
+  </div>
+  <div class="column">
+    <img class="ui medium right floated image" src="../images/pretty_jugyeong.jpg" width="500" height="500">
+  </div>
+</div>
+
+
 ## Real Life Examples
 A real life example of this using websites that have similar content, discussing open source software, but with very different styling.
 <img src="../images/website with ui.png" alt="website with ui" width="700" height="400">

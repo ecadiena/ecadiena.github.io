@@ -19,7 +19,7 @@ As the title "True Beauty" stands, the story dives into the topic of the beauty 
 
 ## Before and After Styling
 <img class="ui tiny left floated image" src="../images/ugly_jugyeong.jpg">
-<img class="ui tiny right floated image" src="../image/pretty_jugyeong.jpg">
+<img class="ui tiny right floated image" src="../images/pretty_jugyeong.jpg">
 
 A real life example of this using websites that have similar content, covering open source software, but with very different styling.
 <div class="ui two column grid">

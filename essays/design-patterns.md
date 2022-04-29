@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: My first week in Software Engineering 1
-date: 2022-04.28
+title: Design Patterns
+date: 2022-04-28
 labels:
   - Design Patterns
   - Software Engineering

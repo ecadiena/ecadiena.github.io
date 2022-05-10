@@ -23,7 +23,7 @@ If there's one thing that I learned so far in my technical career it's that tech
 
 ## Game Development
 
-One of my personal goals is to become a game developer at some capacity. I've been surrounded by video games, card games, board games, etc. my entire life, so I'd like to translate the joy I have in programming into game development. Whenever I am playing a game I like to think in the eyes of the developer and team that created the reality that I was experiencing. I subconciously think to myself things like: "Why did they choose to place this here?", "What advantages does this character have in this map?", "What were they thinking making this level so hard?", etc. In the light of what I'd like to learn is the languages and qualities required to become a game developer. 
+One of my personal goals is to become a game developer at some capacity. I've been surrounded by video games, card games, board games, etc. my entire life, so I'd like to translate the joy I have in programming into game development. Whenever I am playing a game I like to think in the eyes of the developer and team that created the reality that I was experiencing. I subconsciously think to myself things like: "Why did they choose to place this here?", "What advantages does this character have in this map?", "What were they thinking making this level so hard?", etc. In the light of what I'd like to learn is the languages and qualities required to become a game developer. 
 
 ## What happens now?
 

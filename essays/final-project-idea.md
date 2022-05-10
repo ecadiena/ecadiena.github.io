@@ -18,7 +18,7 @@ There are amazing events out there, but no one knows about them. We receive emai
 ## The solution
 School Events Hub will provide information on upcoming events filtered by tags of different interests/topics. Include the opening gate as well as the closing gate. 
 
-## Aproach
+## Approach
 <ul>
   <li>Landing Page</li>
     - Overview of the website.
@@ -36,7 +36,7 @@ School Events Hub will provide information on upcoming events filtered by tags o
 ## Case Ideas
 <ol>
   <li>Rad Grad</li>
-  <li>Superfans for UH Athletic (mobile app for upcoming UH sporting events)</li>
+  <li>SuperFans for UH Athletic (mobile app for upcoming UH sporting events)</li>
   <li>Unidays (Categories feature)</li>
 </ol>
 

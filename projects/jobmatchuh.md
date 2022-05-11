@@ -12,6 +12,8 @@ labels:
   - CSS
 summary: Job Matching web application designed for University of Hawaii students to find companies who have similar interests with them.
 ---
+  
+<img src="https://github.com/ecadiena/ecadiena.github.io/blob/master/images/jobmatchuh.png?raw=true">
 
 # Job Match UH
 The Job Match UH web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests, experiences, and more. The site can match students to potential employers and vice-versa. 

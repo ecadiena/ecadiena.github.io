@@ -37,7 +37,7 @@
       "name": "Software Engineering",
       "keywords": [
         "Website Development",
-        "App Development"
+        "Mobile App Development"
       ]
     },
     {
@@ -64,6 +64,11 @@
       "name": "Computer Building",
       "keywords": [
       ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -79,6 +84,11 @@
         "ReactJS",
         "Python",
         "TypeScript",
+        "SQL",
+        "Bootstrap",
+        "MongoDB",
+        "Semantic UI",
+        "Git"
       ]
     },
     {

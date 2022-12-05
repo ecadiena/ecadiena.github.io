@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Edalaine Cadiena",
         "url": "https://www.linkedin.com/in/edalaine-cadiena-3a93401ba/"
-      },
-      {
-        "network": "instagram",
-        "username": "edaamaame",
-        "url": "https://www.instagram.com/edaamaame/"
       }
     ]
   },
@@ -116,7 +111,8 @@
         "Operating Systems",
         "Software Engineering 1-2",
         "Linear Algebra",
-        "Scripting/C/C++"
+        "Scripting/C/C++",
+        "Operating Systems"
       ]
     },
     {
@@ -155,7 +151,7 @@
       "highlights": [
         "Find and fix bugs on web application",
         "Participate in daily team meetings",
-        "Took responsibility for certain feature improvement",
+        "Took responsibility for certain feature improvement"
       ]
     },
     {
@@ -168,7 +164,7 @@
       "highlights": [
         "Connect with customers and align with them Apple's company values",
         "During appointments align and assure customers that they are receiving high quality services with their products",
-        "Express knowledge of products and provide solutions to a customer's needs",
+        "Express knowledge of products and provide solutions to a customer's needs"
       ]
     },
     {
@@ -181,7 +177,7 @@
       "highlights": [
         "Find and fix bugs on web application",
         "Participate in daily team meetings",
-        "Took responsibility for certain feature improvement",
+        "Took responsibility for certain feature improvement"
       ]
     },
     {
@@ -193,7 +189,7 @@
       "summary": "Intake, prepare, and distribute orders accurately and efficiently. Upkeep restaurant cleanliness and presentation.",
       "highlights": [
         "Customer service experiences in the food industry",
-        "Learned how to time manage and multitask while serving customers with a smile",
+        "Learned how to time manage and multitask while serving customers with a smile"
       ]
     }
   ],
@@ -253,6 +249,12 @@
       "awarder": "Moanalua High School",
       "summary": "Participate in a seasonal sport while maintaining a the highest GPA of your prospective team."
     }, 
+    {
+      "title": "HACC Hackathon 3rd Place, People's Choice Award",
+      "date": "2022",
+      "awarder": "Hawaii Annual Code Challenger",
+      "summary": "Broadband for Hawai`i is an interactive accessible online platform that allows people to learn more about the internet. It is a website that allows users to get engaged with different classes that tackles different topics about the internet and why people of Hawaii should get broadband."
+    }
   ],
   "references": [
     {

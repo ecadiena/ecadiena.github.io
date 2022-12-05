@@ -14,7 +14,7 @@ labels:
 summary: Broadband for Hawaiʻi is an interactive accessible online platform that allows people to learn more about the internet. It is a website that allows users to get engaged with different classes that tackles different topics about the internet and why people of Hawaii should get broadband.
 ---
 
-<img src="../images/hacc.jpg" width="750" height="400"/>
+<img src="../images/hacc.png" width="750" height="400"/>
 
 # Broadband for Hawai`i
 
@@ -35,7 +35,7 @@ I was one of the front end developers, in charge of the look and feel of the app
 
 ## Results
 
-In this hackathon my team placed 3rd overall in the Custom Coded Solution Division, as well as earning the People's Choice Award. For more information on this project, our devpost article is linked<a href="https://devpost.com/software/chipmunks">here</a>. To watch a video demo and over of our application, that is linked <a href="https://www.youtube.com/watch?v=ICR5q8FrtbE&feature=emb_logo">here</a>.
+In this hackathon my team placed 3rd overall in the Custom Coded Solution Division, as well as earning the People's Choice Award. For more information on this project, our devpost article is linked <a href="https://devpost.com/software/chipmunks">here</a>. To watch a video demo and over of our application, that is linked <a href="https://www.youtube.com/watch?v=ICR5q8FrtbE&feature=emb_logo">here</a>.
 
 ### Credits
 

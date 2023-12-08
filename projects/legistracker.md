@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images\hacc.png
+image: images\HIDOELogo.png
 title: HIDOE Legistracker
 permalink: projects/legistracker
 date: 2022-05-10
@@ -15,7 +15,7 @@ labels:
 summary: A modernization of the legislative bill tracking system.
 ---
   
-# HI DOE Legistracker
+# HIDOE Legistracker
 In collaboration with the Hawaii Department of Education, this project aims to modernize their current system which is run on LotusNotes and replace it with a modern and user friendly web application.
 
 ## The Solution

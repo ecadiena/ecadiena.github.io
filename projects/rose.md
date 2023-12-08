@@ -11,6 +11,7 @@ labels:
   - HTML/CSS
 summary: Frontend development of the Graphical User Interface for a space rover on Team RoSE.
 ---
+<img src="https://github.com/ecadiena/ecadiena.github.io/blob/master/images/12990004_lg.jpg"/>
   
 # Team RoSE
 The RoSE Vertically Integrated Project(VIP) team aims to explore and learn about our universe through and beside intelligent robotic systems. VIP Team RoSE is concerned with the fabrication, dynamics, controls, systems engineering, and machine learning for space applications. 

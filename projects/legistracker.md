@@ -4,7 +4,7 @@ type: project
 image: images\HIDOELogo.png
 title: HIDOE Legistracker
 permalink: projects/legistracker
-date: 2022-05-10
+date: 2022-09-20
 labels:
   - MongoDB
   - ReactJS
